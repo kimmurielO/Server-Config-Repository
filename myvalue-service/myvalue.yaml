@@ -1,5 +1,4 @@
 server: 
   port: 8081
 some:
-  valueFar: 68
-  valueCelsius: 20
+  valueFar: Celsius
